@@ -1,0 +1,1 @@
+# python_latex_template
