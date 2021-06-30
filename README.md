@@ -1,4 +1,4 @@
-# JLop Python plot template
+# JLop Template
 
 If you like to have full control over your plots, this is a good starting point. 
 
