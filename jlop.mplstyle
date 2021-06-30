@@ -1,0 +1,41 @@
+#
+#	Jlop theme for python
+#	Publishable figures
+#
+
+#LINES
+lines.linewidth: 1.5
+lines.linestyle: -
+
+#FONT
+font.family: serif
+font.serif: cmr10
+
+#LATEX
+text.usetex: False
+mathtext.fontset: cm
+
+#AXES
+axes.unicode_minus: False
+axes.labelsize: 16
+axes.prop_cycle: cycler( 'color',[(0.16941176470588235, 0.15, 0.5323529411764706), (0.3870588235294118, 0.16450980392156864, 0.6774509803921569), (0.7678431372549019, 0.22098039215686274, 0.3531372549019608), (0.9419607843137255, 0.3950980392156863, 0.06294117647058822), (0.9,0.6774509803921569, 0.07098039215686275), (0.9, 0.8805882352941177, 0.44823529411764707)])
+	
+#TICKS
+ytick.labelsize: 16
+xtick.labelsize: 16
+
+#GRID
+grid.color:     b0b0b0  
+grid.linestyle: -.       
+grid.linewidth: 0.8
+
+#LEGEND
+legend.fancybox:      False
+legend.framealpha:    1.0
+legend.fontsize: 16
+
+#FIGURE 
+figure.figsize:     8, 5 
+figure.dpi:         300
+savefig.pad_inches:   0.0
+savefig.transparent: False
